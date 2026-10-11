@@ -1,0 +1,6 @@
+ Order ID,Customer Name ,Status,Phone,Sales,Region,Age
+1001, alice tan,Shipped ,(555) 123-4567,"1,250",North,34
+1002,Bob Lee ,PENDING,555-987-6543,875,South,52
+1003,carol ng,shipped,555/456/7890,"2,340",North,27
+1004,Dev Raj,Pending ,(555) 321-9876,unknown,East,61
+1005,ELLA WONG,Cancelled,555.222.3333,"1,560",South,45

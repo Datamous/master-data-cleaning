@@ -1,0 +1,5 @@
+product,quantity,price,discount
+Widget A,50,29.99,0.10
+Widget B,,34.99,0.15
+Widget C,75,,0.05
+Widget D,30,19.99,

@@ -1,0 +1,5 @@
+customer_id,city,email,status,full_name
+1,New York,alice@email.com,Active,Alice Johnson
+2,los angeles,BOB@EMAIL.COM,active,Bob Smith
+3,Chicago,charlie@email.com,,Charlie Williams
+4,houston,DANA@email.com,Inactive,Dana Brown

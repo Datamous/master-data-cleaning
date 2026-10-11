@@ -1,0 +1,5 @@
+patient_id,appointment_date,arrival_time
+P001,2024-01-15,09:00
+P002,2024-01-15,
+P003,,10:00
+P004,2024-01-16,11:00

@@ -1,0 +1,7 @@
+student_id,name,math,science,english,status
+S101,Alice,85.5,92.0,88.0,Completed
+S102,Bob,,88.0,90.0,Completed
+S103,Charlie,90.0,,87.0,In Progress
+S104,Diana,78.2,85.5,82.0,
+S105,Emma,95.0,98.0,94.0,Completed
+S106,Farid,,,75.0,Failed

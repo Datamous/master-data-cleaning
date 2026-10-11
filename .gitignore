@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Files the notebooks create when you run them
+chapter-05/company_data.xlsx
+chapter-05/employee_data.csv
+chapter-05/employee_data.xlsx
+chapter-05/performance_report.csv
+chapter-05/sales.parquet
+chapter-05/output/
+chapter-12/orders_clean.csv

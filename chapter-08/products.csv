@@ -1,0 +1,6 @@
+product_id,category,status,price
+P01, Electronics,Active ,$49.99
+P02,Furniture ,ACTIVE,$129.00
+P03,electronics, inactive,$9.99
+P04,Furniture,Active,$75.50
+P05,ELECTRONICS,active,$19.99

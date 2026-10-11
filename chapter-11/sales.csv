@@ -1,0 +1,11 @@
+order_id,region,product,quarter,payment,revenue,units
+1001,East,Laptop,Q1,Card,4200,3
+1002,East,Phone,Q1,Cash,2600,4
+1003,East,Laptop,Q2,Card,5600,4
+1004,West,Phone,Q1,Card,1950,3
+1005,West,Laptop,Q2,Cash,2800,2
+1006,West,Phone,Q2,Card,,5
+1007,North,Laptop,Q1,Card,7000,5
+1008,North,Phone,Q2,Cash,3250,5
+1009,North,Phone,Q2,Card,1300,2
+1010,East,Phone,Q2,Card,1950,3

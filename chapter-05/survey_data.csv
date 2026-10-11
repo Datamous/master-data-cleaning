@@ -1,0 +1,6 @@
+respondent_id,age,income,satisfaction
+1,28,"$45,000",4
+2,35,N/A,5
+3,unknown,"$52,000",3
+4,42,"$38,000",-999
+5,29,-999,4

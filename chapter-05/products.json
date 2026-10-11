@@ -1,0 +1,5 @@
+[
+  {"sku": "W-A", "name": "Widget A", "price": 24.9, "in_stock": true},
+  {"sku": "W-B", "name": "Widget B", "price": 29.9, "in_stock": false},
+  {"sku": "W-C", "name": "Widget C", "price": 29.9, "in_stock": true}
+]
