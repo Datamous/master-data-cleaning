@@ -14,9 +14,9 @@ inconsistent text, mixed date formats, merging and reshaping, ending with a caps
 cleans a messy 200-order sales file. 12 chapters, 116 quiz questions with explained answers, every
 example tested on pandas 3.
 
-<!-- Add the buy link once the book is live:
-- Kindle and paperback: Amazon link
--->
+- **Get the book:** [Kindle and paperback on Amazon](https://www.amazon.com/dp/B0HN5CDSS3)
+- **Free printable cheat sheet:** [pandas Data Cleaning Cheat Sheet](https://datamous.github.io/cheatsheet) (2 pages, every common fix)
+- **More from Datamous:** [datamous.github.io](https://datamous.github.io)
 
 | Folder | Chapter |
 |---|---|
