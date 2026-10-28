@@ -15,6 +15,7 @@ cleans a messy 200-order sales file. 12 chapters, 116 quiz questions with explai
 example tested on pandas 3.
 
 - **Get the book:** [Kindle and paperback on Amazon](https://www.amazon.com/dp/B0HN5CDSS3)
+  (**the Kindle edition is free until Sun 1 Nov 2026**, US Pacific time)
 - **Free printable cheat sheet:** [pandas Data Cleaning Cheat Sheet](https://datamous.github.io/cheatsheet) (2 pages, every common fix)
 - **More from Datamous:** [datamous.github.io](https://datamous.github.io)
 
